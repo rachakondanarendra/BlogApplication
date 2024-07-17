@@ -2,7 +2,7 @@
 
 ## Installation and Run 
 
-**Create a database `blog`**
+**Create a database `blog` in MySQL**
 **And Create these two tables in that database**
 
 **CREATE TABLE User (
