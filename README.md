@@ -32,3 +32,5 @@
 ## Download and import the above BlogCorner.war file in Eclipse
 ## Make Sure that Apache Tomcat 9 Server should there in Eclipse
 ## Right click on the project, then click on Run As > Run on Server > Select Tomcat Server > Next > In Congifure 'BlogCorner' project should be there > Then Click on Finish 
+
+Noote: After importing, it may show Descripter not loaded or some errors in jsp import statements, Don't worry this doesn't give any errors while running on the project on Web Browser. 
