@@ -2,7 +2,7 @@
 
 ## Installation and Run 
 
-**Click on BlogCorner.war above, then click on download option which is there right side, then 'BlogCorner.war' file will be downloaded**
+**Click on 'BlogCorner.war' file above, then click on download option which is there right side, then 'BlogCorner.war' file will be downloaded**
 
 **Create a database `blog` in MySQL**
 **And Create these two tables in that database**
